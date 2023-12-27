@@ -1,6 +1,6 @@
-# mynotes
+# flutter-my-notes-mobile-app
 
-A new Flutter project.
+
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[BSD](https://opensource.org/licenses/BSD-3-Clause)
